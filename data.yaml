@@ -1,0 +1,20 @@
+path: /content/data/
+train: images/train  # train images (relative to 'path')
+val: images/test  # val images (relative to 'path')
+
+# Classes
+names:
+  0: auto_rickshaw
+  1: bicycle
+  2: bus
+  3: car
+  4: cart_vehicle
+  5: construction_vehicle
+  6: motorbike
+  7: person
+  8: priority_vehicle
+  9: three_wheeler
+  10: train
+  11: truck
+  12: wheelchair
+
